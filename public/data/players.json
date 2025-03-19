@@ -1,0 +1,46 @@
+{
+    "players": [
+      {
+        "id": "admin123",
+        "email": "admin@example.com",
+        "password": "admin123",
+        "name": "Admin User",
+        "isAdmin": true,
+        "schoolEmail": "admin@school.edu",
+        "personalEmail": "admin@personal.com",
+        "phone": "123-456-7890",
+        "wins": 0,
+        "losses": 0,
+        "position": 1,
+        "previousPosition": 1
+      },
+      {
+        "id": "user1",
+        "email": "player1@example.com",
+        "password": "password123",
+        "name": "Player One",
+        "isAdmin": false,
+        "schoolEmail": "player1@school.edu",
+        "personalEmail": "player1@personal.com",
+        "phone": "123-456-7891",
+        "wins": 5,
+        "losses": 2,
+        "position": 2,
+        "previousPosition": 3
+      },
+      {
+        "id": "user2",
+        "email": "player2@example.com",
+        "password": "password123",
+        "name": "Player Two",
+        "isAdmin": false,
+        "schoolEmail": "player2@school.edu",
+        "personalEmail": "player2@personal.com",
+        "phone": "123-456-7892",
+        "wins": 4,
+        "losses": 3,
+        "position": 3,
+        "previousPosition": 2
+      }
+    ]
+  }

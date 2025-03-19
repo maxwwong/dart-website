@@ -1,0 +1,26 @@
+{
+    "matches": [
+      {
+        "id": "match1",
+        "date": "2025-03-10",
+        "player1Id": "user1",
+        "player2Id": "user2",
+        "winnerId": "user1",
+        "loserId": "user2",
+        "player1Confirmed": true,
+        "player2Confirmed": true,
+        "status": "completed"
+      },
+      {
+        "id": "match2",
+        "date": "2025-03-03",
+        "player1Id": "user1",
+        "player2Id": "admin123",
+        "winnerId": "user1",
+        "loserId": "admin123",
+        "player1Confirmed": true,
+        "player2Confirmed": true,
+        "status": "completed"
+      }
+    ]
+  }

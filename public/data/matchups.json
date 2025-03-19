@@ -1,0 +1,23 @@
+{
+    "week": "Week of March 17, 2025",
+    "matchups": [
+      {
+        "id": "matchup1",
+        "player1Id": "user1",
+        "player2Id": "admin123",
+        "dateScheduled": "2025-03-20",
+        "status": "scheduled",
+        "player1Confirmed": false,
+        "player2Confirmed": false
+      },
+      {
+        "id": "matchup2",
+        "player1Id": "user2",
+        "player2Id": "user1",
+        "dateScheduled": "2025-03-21",
+        "status": "scheduled",
+        "player1Confirmed": false,
+        "player2Confirmed": false
+      }
+    ]
+  }
